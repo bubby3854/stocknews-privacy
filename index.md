@@ -4,6 +4,18 @@
 
 ---
 
+## Support & Contact
+
+Need help with StockNews?
+
+- **Email Support**: [changminc66@gmail.com](mailto:changminc66@gmail.com)
+- **In-App Help Center**: Open `Profile → Help & Support` to view FAQs or send us a message.
+- **Account Deletion**: You can delete your account instantly inside the app via `Profile → Delete Account`.
+
+We typically respond to support requests within 2 business days.
+
+---
+
 ## Introduction
 
 Welcome to StockNews. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and protect your information when you use our mobile application.
